@@ -1,0 +1,16 @@
+{
+    "id": "https://osmt.wgu.edu/api/skills/3c836ab8-093b-44a8-a3bf-0a4d2333ffe5",
+    "status": "published",
+    "uuid": "3c836ab8-093b-44a8-a3bf-0a4d2333ffe5",
+    "skillName": "Code In One Programming Language",
+    "skillStatement": "Code in at least one programming language.",
+    "keywords": [
+        "Computer Science",
+        "Transferrable Skills Across Occupations",
+        "Computer Science"
+    ],
+    "occupations": [],
+    "publishDate": "2023-02-27T18:00:19.657351",
+    "archiveDate": null,
+    "category": "Computer Science"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "https://osmt.wgu.edu/api/skills/99e21c86-fa69-4e2e-9d51-009f9d1729a0",
+    "status": "published",
+    "uuid": "99e21c86-fa69-4e2e-9d51-009f9d1729a0",
+    "skillName": "Variable Storage",
+    "skillStatement": "Store multiple related variables of the same data type with an array.",
+    "keywords": [
+        "array",
+        "C (Programming Language)",
+        "multiple variables",
+        "WGUSID: 12167"
+    ],
+    "occupations": [
+        {
+            "code": "15-0000",
+            "targetNodeName": "Computer and Mathematical Occupations",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1250",
+            "targetNodeName": "Software and Web Developers, Programmers, and Testers",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1251",
+            "targetNodeName": "Computer Programmers",
+            "frameworkName": "bls"
+        }
+    ],
+    "publishDate": "2022-02-25T13:54:08.321732",
+    "archiveDate": null,
+    "category": "C (Programming Language)"
+}

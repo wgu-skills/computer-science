@@ -1,0 +1,91 @@
+id: https://osmt.wgu.edu/api/skills/39b4bcf8-037a-43db-bf9c-b4cda5cd8840
+status: published
+uuid: 39b4bcf8-037a-43db-bf9c-b4cda5cd8840
+skillName: Vector-Based Calculations Application Creation
+skillStatement: Create applications that use vectors and vector-based calculations.
+keywords:
+  - R (Programming Language)
+  - R (Programming Language)
+  - 'WGUSID: 1568'
+  - '1759'
+occupations:
+  - code: 11-0000
+    targetNodeName: Management Occupations
+    frameworkName: bls
+  - code: 11-1010
+    targetNodeName: Chief Executives
+    frameworkName: bls
+  - code: 11-1011
+    targetNodeName: Chief Executives
+    frameworkName: bls
+  - code: 11-1020
+    targetNodeName: General and Operations Managers
+    frameworkName: bls
+  - code: 11-1021
+    targetNodeName: General and Operations Managers
+    frameworkName: bls
+  - code: 11-2020
+    targetNodeName: Marketing and Sales Managers
+    frameworkName: bls
+  - code: 11-2022
+    targetNodeName: Sales Managers
+    frameworkName: bls
+  - code: 11-3010
+    targetNodeName: Administrative Services and Facilities Managers
+    frameworkName: bls
+  - code: 11-3050
+    targetNodeName: Industrial Production Managers
+    frameworkName: bls
+  - code: 11-3051
+    targetNodeName: Industrial Production Managers
+    frameworkName: bls
+  - code: 11-3070
+    targetNodeName: Transportation, Storage, and Distribution Managers
+    frameworkName: bls
+  - code: 11-3071
+    targetNodeName: Transportation, Storage, and Distribution Managers
+    frameworkName: bls
+  - code: 11-9020
+    targetNodeName: Construction Managers
+    frameworkName: bls
+  - code: 11-9021
+    targetNodeName: Construction Managers
+    frameworkName: bls
+  - code: 11-9150
+    targetNodeName: Social and Community Service Managers
+    frameworkName: bls
+  - code: 11-9151
+    targetNodeName: Social and Community Service Managers
+    frameworkName: bls
+  - code: 11-9190
+    targetNodeName: Miscellaneous Managers
+    frameworkName: bls
+  - code: 11-9198
+    targetNodeName: >-
+      Personal Service Managers, All Other; Entertainment and Recreation
+      Managers, Except Gambling; and Managers, All Other
+    frameworkName: bls
+  - code: 13-0000
+    targetNodeName: Business and Financial Operations Occupations
+    frameworkName: bls
+  - code: 13-1050
+    targetNodeName: Cost Estimators
+    frameworkName: bls
+  - code: 13-1051
+    targetNodeName: Cost Estimators
+    frameworkName: bls
+  - code: 13-1110
+    targetNodeName: Management Analysts
+    frameworkName: bls
+  - code: 13-1111
+    targetNodeName: Management Analysts
+    frameworkName: bls
+  - code: 37-0000
+    targetNodeName: Building and Grounds Cleaning and Maintenance Occupations
+    frameworkName: bls
+  - code: 39-0000
+    targetNodeName: Personal Care and Service Occupations
+    frameworkName: bls
+publishDate: '2022-02-04T15:26:54.951081'
+archiveDate: null
+category: R (Programming Language)

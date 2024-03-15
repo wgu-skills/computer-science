@@ -1,0 +1,17 @@
+id: https://osmt.wgu.edu/api/skills/06a2696f-efd5-4995-867f-ec7982b830bc
+status: published
+uuid: 06a2696f-efd5-4995-867f-ec7982b830bc
+skillName: Secure Operating Systems
+skillStatement: Secure operating systems and applications.
+keywords:
+  - Operating Systems
+  - Systems Engineer
+  - WGU SE
+  - Operating Systems
+occupations:
+  - code: 15-1200
+    targetNodeName: Computer Occupations
+    frameworkName: bls
+publishDate: '2023-05-16T19:53:12.883205'
+archiveDate: null
+category: Operating Systems

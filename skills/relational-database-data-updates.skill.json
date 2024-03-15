@@ -1,0 +1,62 @@
+{
+    "id": "https://osmt.wgu.edu/api/skills/511de841-794c-4cea-a9e6-83de776e1f3b",
+    "status": "published",
+    "uuid": "511de841-794c-4cea-a9e6-83de776e1f3b",
+    "skillName": "Relational Database Data Updates",
+    "skillStatement": "Update data in relational databases using stored procedures.",
+    "keywords": [
+        "NICE_SP_DEV",
+        "NICE_SP_ARC",
+        "NICE_SP_SYS",
+        "NICE_AN_TWA",
+        "NICE_AN_EXP",
+        "NICE_AN_ASA",
+        "NICE_AN_TGT",
+        "NICE_AN_LNG",
+        "NICE_CO_CLO",
+        "NICE_CO_OPL",
+        "NICE_CO_OPS",
+        "NICE_OM_ANA",
+        "NICE_OM_DTA",
+        "AZ",
+        "DP-203",
+        "Relational Databases",
+        "Relational Databases",
+        "WGUSID: 10744"
+    ],
+    "occupations": [
+        {
+            "code": "15-0000",
+            "targetNodeName": "Computer and Mathematical Occupations",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1240",
+            "targetNodeName": "Database and Network Administrators and Architects",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1245",
+            "targetNodeName": "Database Administrators and Architects",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1250",
+            "targetNodeName": "Software and Web Developers, Programmers, and Testers",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1251",
+            "targetNodeName": "Computer Programmers",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1256",
+            "targetNodeName": "Software Developers and Software Quality Assurance Analysts and Testers",
+            "frameworkName": "bls"
+        }
+    ],
+    "publishDate": "2022-02-04T21:48:16.436093",
+    "archiveDate": null,
+    "category": "Relational Databases"
+}

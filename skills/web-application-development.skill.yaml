@@ -1,0 +1,26 @@
+id: https://osmt.wgu.edu/api/skills/07393ee9-5754-4c83-ba0e-43f9c3e0094d
+status: published
+uuid: 07393ee9-5754-4c83-ba0e-43f9c3e0094d
+skillName: Web Application Development
+skillStatement: >-
+  Develop enterprise web application front-ends with Hypertext Markup Language
+  (HTML).
+keywords:
+  - HyperText Markup Language (HTML)
+  - HTML
+  - Web Apps
+  - Frontend
+  - 'WGUSID: 12275'
+occupations:
+  - code: 15-0000
+    targetNodeName: Computer and Mathematical Occupations
+    frameworkName: bls
+  - code: 15-1250
+    targetNodeName: Software and Web Developers, Programmers, and Testers
+    frameworkName: bls
+  - code: 15-1251
+    targetNodeName: Computer Programmers
+    frameworkName: bls
+publishDate: '2022-02-23T17:50:23.63952'
+archiveDate: null
+category: Hypertext Markup Language (HTML)

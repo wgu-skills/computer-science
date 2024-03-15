@@ -1,0 +1,45 @@
+id: https://osmt.wgu.edu/api/skills/888f7497-c2a9-4844-8b73-fe58643210dd
+status: published
+uuid: 888f7497-c2a9-4844-8b73-fe58643210dd
+skillName: Data Duplication Implementation
+skillStatement: >-
+  Implement duplication of data across a distributed database to ensure
+  consistency.
+keywords:
+  - AZ-303
+  - AZ-304
+  - AZ-204
+  - AZ DP-203
+  - Visual Studio
+  - SQL Server Management Studio
+  - Distributed Database
+  - Distributed Database
+  - 'WGUSID: 4165'
+occupations:
+  - code: 15-0000
+    targetNodeName: Computer and Mathematical Occupations
+    frameworkName: bls
+  - code: 15-1220
+    targetNodeName: Computer and Information Research Scientists
+    frameworkName: bls
+  - code: 15-1221
+    targetNodeName: Computer and Information Research Scientists
+    frameworkName: bls
+  - code: 15-1240
+    targetNodeName: Database and Network Administrators and Architects
+    frameworkName: bls
+  - code: 15-1245
+    targetNodeName: Database Administrators and Architects
+    frameworkName: bls
+  - code: 15-1250
+    targetNodeName: Software and Web Developers, Programmers, and Testers
+    frameworkName: bls
+  - code: 15-1256
+    targetNodeName: Software Developers and Software Quality Assurance Analysts and Testers
+    frameworkName: bls
+  - code: 15-2090
+    targetNodeName: Miscellaneous Mathematical Science Occupations
+    frameworkName: bls
+publishDate: '2022-02-23T22:54:06.902858'
+archiveDate: null
+category: Distributed Database

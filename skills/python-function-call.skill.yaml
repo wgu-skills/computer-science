@@ -1,0 +1,40 @@
+id: https://osmt.wgu.edu/api/skills/476e2f7d-0844-43a8-b467-08a5eecf2fef
+status: published
+uuid: 476e2f7d-0844-43a8-b467-08a5eecf2fef
+skillName: Python Function Call
+skillStatement: Call functions using Python.
+keywords:
+  - Python (Programming Language)
+  - Python (Programming Language)
+  - Jupyter Notebooks
+  - Visual Studio Code
+  - 'WGUSID: 1540.1'
+occupations:
+  - code: 15-0000
+    targetNodeName: Computer and Mathematical Occupations
+    frameworkName: bls
+  - code: 15-1220
+    targetNodeName: Computer and Information Research Scientists
+    frameworkName: bls
+  - code: 15-1221
+    targetNodeName: Computer and Information Research Scientists
+    frameworkName: bls
+  - code: 15-1240
+    targetNodeName: Database and Network Administrators and Architects
+    frameworkName: bls
+  - code: 15-1250
+    targetNodeName: Software and Web Developers, Programmers, and Testers
+    frameworkName: bls
+  - code: 15-1251
+    targetNodeName: Computer Programmers
+    frameworkName: bls
+  - code: 15-1259
+  - code: 15-1290
+    targetNodeName: Miscellaneous Computer Occupations
+    frameworkName: bls
+  - code: 15-2090
+    targetNodeName: Miscellaneous Mathematical Science Occupations
+    frameworkName: bls
+publishDate: '2022-02-04T21:48:18.056283'
+archiveDate: null
+category: Python (Programming Language)

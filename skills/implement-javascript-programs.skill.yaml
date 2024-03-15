@@ -1,0 +1,16 @@
+id: https://osmt.wgu.edu/api/skills/48c8f943-1f05-4b65-bca6-5d932e04dc7a
+status: published
+uuid: 48c8f943-1f05-4b65-bca6-5d932e04dc7a
+skillName: Implement JavaScript Programs
+skillStatement: Implement programs in JavaScript.
+keywords:
+  - Systems Engineer
+  - WGU SE
+  - Java (Programming Language)
+occupations:
+  - code: 15-1200
+    targetNodeName: Computer Occupations
+    frameworkName: bls
+publishDate: '2023-05-16T19:53:19.679496'
+archiveDate: null
+category: JavaScript (Programming Language)

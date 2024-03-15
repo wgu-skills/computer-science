@@ -1,0 +1,22 @@
+{
+    "id": "https://osmt.wgu.edu/api/skills/a53404fa-2e59-46fe-b05e-dacebebd5958",
+    "status": "published",
+    "uuid": "a53404fa-2e59-46fe-b05e-dacebebd5958",
+    "skillName": "Debug JavaScript Code",
+    "skillStatement": "Debug JavaScript code.",
+    "keywords": [
+        "Systems Engineer",
+        "WGU SE",
+        "Java (Programming Language)"
+    ],
+    "occupations": [
+        {
+            "code": "15-1200",
+            "targetNodeName": "Computer Occupations",
+            "frameworkName": "bls"
+        }
+    ],
+    "publishDate": "2023-05-16T19:53:19.576426",
+    "archiveDate": null,
+    "category": "JavaScript (Programming Language)"
+}

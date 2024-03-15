@@ -1,0 +1,16 @@
+{
+    "uuid": "168fae01-783d-422e-8b9f-93b9dc9102ea",
+    "id": "https://osmt.wgu.edu/api/collections/168fae01-783d-422e-8b9f-93b9dc9102ea",
+    "name": "Computer Science_Oct.2023",
+    "description": "The Computer Science collection represents the skills necessary to conceive, design, and oversee computer systems, applications, and software development projects. This includes the skills needed to address coding challenges, optimize algorithms, and ensure the functioning of digital technologies. These skills may be applicable to Software Engineers, Data Scientists, Systems Architects, and IT Directors. This collection of skills was developed in partnership with a panel of subject matter experts who have worked as computer scientists. ",
+    "type": "RichSkillCollection",
+    "status": "published",
+    "context": "https://rsd.openskillsnetwork.org/context-v1.json",
+    "owner": "",
+    "author": "Western Governors University",
+    "creator": "https://credentialengineregistry.org/resources/ce-036d082d-d80e-41a7-99a0-2d63a4ad3a4a",
+    "creationDate": "2023-09-29T14:26:28.826235Z",
+    "updateDate": "2023-10-19T16:43:11.632592Z",
+    "publishDate": "2023-10-19T16:43:11.632612Z",
+    "archiveDate": null
+}

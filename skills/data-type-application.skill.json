@@ -1,0 +1,32 @@
+{
+    "id": "https://osmt.wgu.edu/api/skills/1022d88f-f93d-45a1-a47b-4b0f87aa0790",
+    "status": "published",
+    "uuid": "1022d88f-f93d-45a1-a47b-4b0f87aa0790",
+    "skillName": "Data Type Application",
+    "skillStatement": "Apply appropriate data types to data columns.",
+    "keywords": [
+        "Relational Databases",
+        "data types",
+        "WGUSID: 12363"
+    ],
+    "occupations": [
+        {
+            "code": "15-0000",
+            "targetNodeName": "Computer and Mathematical Occupations",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1250",
+            "targetNodeName": "Software and Web Developers, Programmers, and Testers",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1251",
+            "targetNodeName": "Computer Programmers",
+            "frameworkName": "bls"
+        }
+    ],
+    "publishDate": "2022-02-04T21:48:12.680571",
+    "archiveDate": null,
+    "category": "Relational Databases"
+}

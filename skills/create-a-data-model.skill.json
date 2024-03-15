@@ -1,0 +1,22 @@
+{
+    "id": "https://osmt.wgu.edu/api/skills/5038ed92-8a4e-4c09-8b9b-b948c3e2daad",
+    "status": "published",
+    "uuid": "5038ed92-8a4e-4c09-8b9b-b948c3e2daad",
+    "skillName": "Create A Data Model",
+    "skillStatement": "Create a data model.",
+    "keywords": [
+        "Data Modeling",
+        "Systems Engineers",
+        "Data Modeling"
+    ],
+    "occupations": [
+        {
+            "code": "15-1299.08",
+            "targetNodeName": "Computer Systems Engineers/Architects",
+            "frameworkName": "o*net"
+        }
+    ],
+    "publishDate": "2023-02-24T21:07:29.588663",
+    "archiveDate": null,
+    "category": "Data Modeling"
+}

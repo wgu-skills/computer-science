@@ -1,0 +1,24 @@
+id: https://osmt.wgu.edu/api/skills/141d6379-7e14-4e68-975a-56f60b05486c
+status: published
+uuid: 141d6379-7e14-4e68-975a-56f60b05486c
+skillName: Systems Setting Modification
+skillStatement: >-
+  Modify systems settings to improve performance and reliability of an operating
+  system.
+keywords:
+  - AZ-303
+  - AZ-104
+  - Operating Systems
+  - Operating Systems
+  - 'WGUSID: 5086'
+occupations:
+  - code: 11-3131
+    targetNodeName: Training and Development Managers
+    frameworkName: bls
+  - code: '11_3130'
+  - code: 15-0000
+    targetNodeName: Computer and Mathematical Occupations
+    frameworkName: bls
+publishDate: '2022-02-04T20:55:09.140679'
+archiveDate: null
+category: Operating Systems

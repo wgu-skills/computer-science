@@ -1,0 +1,19 @@
+id: https://osmt.wgu.edu/api/skills/6b4233aa-2d6f-45b5-b3af-45544a3f9af7
+status: published
+uuid: 6b4233aa-2d6f-45b5-b3af-45544a3f9af7
+skillName: Optimize Code with OOP
+skillStatement: >-
+  Utilize object-oriented programming principles to optimize code and increase
+  scalability.
+keywords:
+  - Python (Programming Language)
+  - Systems Engineer
+  - WGU SE
+  - Python (Programming Language)
+occupations:
+  - code: 15-1200
+    targetNodeName: Computer Occupations
+    frameworkName: bls
+publishDate: '2023-05-16T19:53:18.360151'
+archiveDate: null
+category: Python (Programming Language)

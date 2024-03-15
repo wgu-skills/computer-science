@@ -1,0 +1,52 @@
+{
+    "id": "https://osmt.wgu.edu/api/skills/efaf61fd-7123-4fe3-b8de-94f285752a74",
+    "status": "published",
+    "uuid": "efaf61fd-7123-4fe3-b8de-94f285752a74",
+    "skillName": "Interface Functionality Implementation",
+    "skillStatement": "Implement interface functionality.",
+    "keywords": [
+        "JavaScript",
+        "jQuery",
+        "Front End (Software Engineering)",
+        "Front End (Software Engineering)",
+        "AngularJS",
+        "Backbone",
+        "ReactJS",
+        "WGUSID: 4224"
+    ],
+    "occupations": [
+        {
+            "code": "15-0000",
+            "targetNodeName": "Computer and Mathematical Occupations",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1220",
+            "targetNodeName": "Computer and Information Research Scientists",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1221",
+            "targetNodeName": "Computer and Information Research Scientists",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1250",
+            "targetNodeName": "Software and Web Developers, Programmers, and Testers",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1251",
+            "targetNodeName": "Computer Programmers",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1257",
+            "targetNodeName": "Web Developers and Digital Interface Designers",
+            "frameworkName": "bls"
+        }
+    ],
+    "publishDate": "2022-02-23T17:50:35.378992",
+    "archiveDate": null,
+    "category": "Front End (Software Engineering)"
+}

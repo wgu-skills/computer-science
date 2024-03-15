@@ -1,0 +1,92 @@
+id: https://osmt.wgu.edu/api/skills/78cea804-f63e-4dba-9e68-561852a00029
+status: published
+uuid: 78cea804-f63e-4dba-9e68-561852a00029
+skillName: Advanced Data Structure and Linear Algebra Application
+skillStatement: Apply advanced data structures and linear algebra.
+keywords:
+  - AZ-204
+  - AZ DP-203
+  - Computer Science
+  - Computer Science
+  - 'WGUSID: 387'
+occupations:
+  - code: 11-0000
+    targetNodeName: Management Occupations
+    frameworkName: bls
+  - code: 11-1010
+    targetNodeName: Chief Executives
+    frameworkName: bls
+  - code: 11-1011
+    targetNodeName: Chief Executives
+    frameworkName: bls
+  - code: 11-1020
+    targetNodeName: General and Operations Managers
+    frameworkName: bls
+  - code: 11-1021
+    targetNodeName: General and Operations Managers
+    frameworkName: bls
+  - code: 11-2020
+    targetNodeName: Marketing and Sales Managers
+    frameworkName: bls
+  - code: 11-2022
+    targetNodeName: Sales Managers
+    frameworkName: bls
+  - code: 11-3010
+    targetNodeName: Administrative Services and Facilities Managers
+    frameworkName: bls
+  - code: 11-3050
+    targetNodeName: Industrial Production Managers
+    frameworkName: bls
+  - code: 11-3051
+    targetNodeName: Industrial Production Managers
+    frameworkName: bls
+  - code: 11-3070
+    targetNodeName: Transportation, Storage, and Distribution Managers
+    frameworkName: bls
+  - code: 11-3071
+    targetNodeName: Transportation, Storage, and Distribution Managers
+    frameworkName: bls
+  - code: 11-9020
+    targetNodeName: Construction Managers
+    frameworkName: bls
+  - code: 11-9021
+    targetNodeName: Construction Managers
+    frameworkName: bls
+  - code: 11-9150
+    targetNodeName: Social and Community Service Managers
+    frameworkName: bls
+  - code: 11-9151
+    targetNodeName: Social and Community Service Managers
+    frameworkName: bls
+  - code: 11-9190
+    targetNodeName: Miscellaneous Managers
+    frameworkName: bls
+  - code: 11-9198
+    targetNodeName: >-
+      Personal Service Managers, All Other; Entertainment and Recreation
+      Managers, Except Gambling; and Managers, All Other
+    frameworkName: bls
+  - code: 13-0000
+    targetNodeName: Business and Financial Operations Occupations
+    frameworkName: bls
+  - code: 13-1050
+    targetNodeName: Cost Estimators
+    frameworkName: bls
+  - code: 13-1051
+    targetNodeName: Cost Estimators
+    frameworkName: bls
+  - code: 13-1110
+    targetNodeName: Management Analysts
+    frameworkName: bls
+  - code: 13-1111
+    targetNodeName: Management Analysts
+    frameworkName: bls
+  - code: 37-0000
+    targetNodeName: Building and Grounds Cleaning and Maintenance Occupations
+    frameworkName: bls
+  - code: 39-0000
+    targetNodeName: Personal Care and Service Occupations
+    frameworkName: bls
+publishDate: '2022-02-03T22:26:41.125481'
+archiveDate: null
+category: Computer Science
