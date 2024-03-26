@@ -1,0 +1,20 @@
+name: Update the Collection
+permissions: write-all
+on:
+  workflow_dispatch:
+
+jobs:
+  update:
+    name: Run the Update Collection Action
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run Action to Update Collection
+        uses: wgu-skills/updater@main
+        with:
+          skillCollectionSlug: 'computer-science'
+          skillCollectionUuid: '168fae01-783d-422e-8b9f-93b9dc9102ea'
+          skillCollectionUrl: 'https://osmt.wgu.edu/api/collections/168fae01-783d-422e-8b9f-93b9dc9102ea'
+          gitOrg: 'wgu-skills'
+          gitUsername: 'David Petersen'
+          gitEmail: 'david.petersen@wgu.edu'
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
