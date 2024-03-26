@@ -1,0 +1,23 @@
+{
+    "id": "https://osmt.wgu.edu/api/skills/45754cee-ee30-40ae-8465-107edc6a3016",
+    "uuid": "45754cee-ee30-40ae-8465-107edc6a3016",
+    "status": "published",
+    "publishDate": "2023-05-16T19:53:12.934085",
+    "archiveDate": null,
+    "skillName": "Configure Operating Systems",
+    "skillStatement": "Configure operating systems.",
+    "category": "Operating Systems",
+    "keywords": [
+        "Operating Systems",
+        "Systems Engineer",
+        "WGU SE",
+        "Operating Systems"
+    ],
+    "occupations": [
+        {
+            "code": "15-1200",
+            "targetNodeName": "Computer Occupations",
+            "frameworkName": "bls"
+        }
+    ]
+}

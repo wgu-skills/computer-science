@@ -1,0 +1,33 @@
+{
+    "id": "https://osmt.wgu.edu/api/skills/7832e3e7-698a-4403-8503-4e87a217f657",
+    "uuid": "7832e3e7-698a-4403-8503-4e87a217f657",
+    "status": "published",
+    "publishDate": "2022-02-10T20:37:22.74474",
+    "archiveDate": null,
+    "skillName": "Functions Calling",
+    "skillStatement": "Call methods using Java.",
+    "category": "Java (Programming Language)",
+    "keywords": [
+        "Eclipse",
+        "Java (Programming Language)",
+        "WGUSID: 1537.1",
+        "Java (Programming Language)"
+    ],
+    "occupations": [
+        {
+            "code": "11-3130",
+            "targetNodeName": "Training and Development Managers",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "11-3131",
+            "targetNodeName": "Training and Development Managers",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-0000",
+            "targetNodeName": "Computer and Mathematical Occupations",
+            "frameworkName": "bls"
+        }
+    ]
+}
