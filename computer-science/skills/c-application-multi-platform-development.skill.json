@@ -1,0 +1,42 @@
+{
+    "id": "https://osmt.wgu.edu/api/skills/893edcd4-004b-4dc0-9b7e-a0017d3cbea2",
+    "uuid": "893edcd4-004b-4dc0-9b7e-a0017d3cbea2",
+    "status": "published",
+    "publishDate": "2022-02-25T13:54:11.218893",
+    "archiveDate": null,
+    "skillName": "C# Application Multi-Platform Development",
+    "skillStatement": "Develop C# applications that work across multiple platforms.",
+    "category": "C# (Programming Language)",
+    "keywords": [
+        "C# (Programming Language)",
+        "C# (Programming Language)",
+        "WGUSID: 10497"
+    ],
+    "occupations": [
+        {
+            "code": "15-0000",
+            "targetNodeName": "Computer and Mathematical Occupations",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1250",
+            "targetNodeName": "Software and Web Developers, Programmers, and Testers",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1251",
+            "targetNodeName": "Computer Programmers",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1256",
+            "targetNodeName": "Software Developers and Software Quality Assurance Analysts and Testers",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1257",
+            "targetNodeName": "Web Developers and Digital Interface Designers",
+            "frameworkName": "bls"
+        }
+    ]
+}
