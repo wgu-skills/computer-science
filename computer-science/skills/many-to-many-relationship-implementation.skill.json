@@ -1,0 +1,33 @@
+{
+    "id": "https://osmt.wgu.edu/api/skills/1031d73e-cd2c-4453-a58e-b07e9321b354",
+    "uuid": "1031d73e-cd2c-4453-a58e-b07e9321b354",
+    "status": "published",
+    "publishDate": "2022-02-04T21:48:06.658817",
+    "archiveDate": null,
+    "skillName": "Many to Many Relationship Implementation",
+    "skillStatement": "Implement many-to-many relationships.",
+    "category": "Relational Databases",
+    "keywords": [
+        "Relational Databases",
+        "database relationships",
+        "many-to-many",
+        "WGUSID: 12361"
+    ],
+    "occupations": [
+        {
+            "code": "15-0000",
+            "targetNodeName": "Computer and Mathematical Occupations",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1250",
+            "targetNodeName": "Software and Web Developers, Programmers, and Testers",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1251",
+            "targetNodeName": "Computer Programmers",
+            "frameworkName": "bls"
+        }
+    ]
+}

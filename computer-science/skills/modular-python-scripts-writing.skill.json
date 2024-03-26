@@ -1,0 +1,17 @@
+{
+    "id": "https://osmt.wgu.edu/api/skills/85a05233-0601-4730-88b8-f8b9ec314f03",
+    "uuid": "85a05233-0601-4730-88b8-f8b9ec314f03",
+    "status": "published",
+    "publishDate": "2023-06-13T16:45:38.280092",
+    "archiveDate": null,
+    "skillName": "Modular Python Scripts Writing",
+    "skillStatement": "Write modular scripts using Python.",
+    "category": "Python (Programming Language)",
+    "keywords": [
+        "Python",
+        "scripting languages",
+        "Scripting",
+        "Python  (Programming Language)"
+    ],
+    "occupations": []
+}

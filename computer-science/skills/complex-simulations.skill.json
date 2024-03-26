@@ -1,0 +1,12 @@
+{
+    "id": "https://osmt.wgu.edu/api/skills/74399356-1ead-4775-863a-d2fa530bac79",
+    "uuid": "74399356-1ead-4775-863a-d2fa530bac79",
+    "status": "published",
+    "publishDate": "2022-10-20T12:04:14.048446",
+    "archiveDate": null,
+    "skillName": "Complex Simulations",
+    "skillStatement": "Perform complex simulations using R.",
+    "category": "R (Programming Language)",
+    "keywords": [],
+    "occupations": []
+}
