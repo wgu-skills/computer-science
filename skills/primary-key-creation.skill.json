@@ -1,0 +1,77 @@
+{
+    "id": "https://osmt.wgu.edu/api/skills/7b9a9afc-9cfc-4d36-a9af-19e510541ea5",
+    "uuid": "7b9a9afc-9cfc-4d36-a9af-19e510541ea5",
+    "status": "published",
+    "publishDate": "2022-02-04T20:54:44.763366",
+    "archiveDate": null,
+    "skillName": "Primary Key Creation",
+    "skillStatement": "Create a database column as the primary key.",
+    "category": "Relational Databases",
+    "keywords": [
+        "NICE_SP_DEV",
+        "NICE_SP_ARC",
+        "NICE_SP_SYS",
+        "NICE_AN_LNG",
+        "NICE_OM_ANA",
+        "NICE_OM_DTA",
+        "AZ",
+        "DP-203",
+        "Relational Databases",
+        "Relational Databases",
+        "MySQL Workbench",
+        "SQL Server Management Studio",
+        "WGUSID: 1436"
+    ],
+    "occupations": [
+        {
+            "code": "15-0000",
+            "targetNodeName": "Computer and Mathematical Occupations",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1221",
+            "targetNodeName": "Computer and Information Research Scientists",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1245",
+            "targetNodeName": "Database Administrators and Architects",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1250",
+            "targetNodeName": "Software and Web Developers, Programmers, and Testers",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1251",
+            "targetNodeName": "Computer Programmers",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1256",
+            "targetNodeName": "Software Developers and Software Quality Assurance Analysts and Testers",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1257",
+            "targetNodeName": "Web Developers and Digital Interface Designers",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15_1210"
+        },
+        {
+            "code": "15_1220"
+        },
+        {
+            "code": "15_1240"
+        },
+        {
+            "code": "15_1250"
+        },
+        {
+            "code": "15_2090"
+        }
+    ]
+}
