@@ -1,0 +1,56 @@
+{
+    "id": "https://osmt.wgu.edu/api/skills/dd81be18-ade8-43bb-bea5-165ebd92a489",
+    "uuid": "dd81be18-ade8-43bb-bea5-165ebd92a489",
+    "status": "published",
+    "publishDate": "2022-02-24T00:34:20.928931",
+    "archiveDate": null,
+    "skillName": "Access Application Programming Interface (API) to Retrieve Data",
+    "skillStatement": "Access an application programming interface (API) with a programming language to retrieve data for a task.",
+    "category": "Application Programming Interface (API)",
+    "keywords": [
+        "300-920_DEVWBX",
+        "300-435_ENAUTO",
+        "300-835_CLAUTO",
+        "300-910_DEVOPS",
+        "300-915_DEVIOT",
+        "350-201_CBRCOR",
+        "350-901_DEVCOR",
+        "200-901_DEVASC",
+        "Application Programming Interface (API)",
+        "Application Programming Interface (API)",
+        "WGUSID: 10458"
+    ],
+    "occupations": [
+        {
+            "code": "15-0000",
+            "targetNodeName": "Computer and Mathematical Occupations",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1240",
+            "targetNodeName": "Database and Network Administrators and Architects",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1244",
+            "targetNodeName": "Network and Computer Systems Administrators",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1250",
+            "targetNodeName": "Software and Web Developers, Programmers, and Testers",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1251",
+            "targetNodeName": "Computer Programmers",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1256",
+            "targetNodeName": "Software Developers and Software Quality Assurance Analysts and Testers",
+            "frameworkName": "bls"
+        }
+    ],
+    "slug": "access-application-programming-interface-api-to-retrieve-data"
+}
