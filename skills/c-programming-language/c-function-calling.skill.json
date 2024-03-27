@@ -1,0 +1,53 @@
+{
+    "id": "https://osmt.wgu.edu/api/skills/70476fc5-1407-41ca-b4bd-ff88d1ae40dc",
+    "uuid": "70476fc5-1407-41ca-b4bd-ff88d1ae40dc",
+    "status": "published",
+    "publishDate": "2022-02-25T13:54:27.298658",
+    "archiveDate": null,
+    "skillName": "C++ Function Calling",
+    "skillStatement": "Call functions using C++.",
+    "category": "C++ (Programming Language)",
+    "keywords": [
+        "C++ (Programming Language)",
+        "WGUSID: 1536.1",
+        "C++ (Programming Language)"
+    ],
+    "occupations": [
+        {
+            "code": "15-0000",
+            "targetNodeName": "Computer and Mathematical Occupations",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1220",
+            "targetNodeName": "Computer and Information Research Scientists",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1221",
+            "targetNodeName": "Computer and Information Research Scientists",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1250",
+            "targetNodeName": "Software and Web Developers, Programmers, and Testers",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1251",
+            "targetNodeName": "Computer Programmers",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1256",
+            "targetNodeName": "Software Developers and Software Quality Assurance Analysts and Testers",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-2090",
+            "targetNodeName": "Miscellaneous Mathematical Science Occupations",
+            "frameworkName": "bls"
+        }
+    ],
+    "slug": "c-function-calling"
+}
