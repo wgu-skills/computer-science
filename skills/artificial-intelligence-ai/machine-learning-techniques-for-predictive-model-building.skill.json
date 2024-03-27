@@ -1,0 +1,15 @@
+{
+    "id": "https://osmt.wgu.edu/api/skills/f3644910-62fd-4960-aa69-378fcf515347",
+    "uuid": "f3644910-62fd-4960-aa69-378fcf515347",
+    "status": "published",
+    "publishDate": "2023-06-01T16:28:58.140435",
+    "archiveDate": null,
+    "skillName": "Machine Learning Techniques for Predictive Model Building",
+    "skillStatement": "Apply machine learning techniques to build predictive models for data analysis.",
+    "category": "Artificial Intelligence (AI)",
+    "keywords": [
+        "Machine Learning",
+        "Artificial Intelligence (AI)"
+    ],
+    "occupations": []
+}
