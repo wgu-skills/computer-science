@@ -1,0 +1,47 @@
+{
+    "id": "https://osmt.wgu.edu/api/skills/65c149d3-1b20-4a5d-a30c-b24c8624014b",
+    "uuid": "65c149d3-1b20-4a5d-a30c-b24c8624014b",
+    "status": "published",
+    "publishDate": "2022-02-04T20:55:50.788499",
+    "archiveDate": null,
+    "skillName": "Primary Key Identification",
+    "skillStatement": "Choose appropriate primary keys for a relational database.",
+    "category": "Relational Databases",
+    "keywords": [
+        "AZ DP-203",
+        "Microsoft Access",
+        "MySQL",
+        "Relational Databases",
+        "Relational Databases",
+        "Microsoft SQL Server",
+        "WGUSID: 910"
+    ],
+    "occupations": [
+        {
+            "code": "15-0000",
+            "targetNodeName": "Computer and Mathematical Occupations",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15_1210"
+        },
+        {
+            "code": "17-0000",
+            "targetNodeName": "Architecture and Engineering Occupations",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "17_2080"
+        },
+        {
+            "code": "17_2110"
+        },
+        {
+            "code": "17_2190"
+        },
+        {
+            "code": "17_3020"
+        }
+    ],
+    "slug": "primary-key-identification"
+}

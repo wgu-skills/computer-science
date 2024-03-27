@@ -1,0 +1,63 @@
+{
+    "id": "https://osmt.wgu.edu/api/skills/f149e95f-0dde-4d43-8134-5e2144000c9d",
+    "uuid": "f149e95f-0dde-4d43-8134-5e2144000c9d",
+    "status": "published",
+    "publishDate": "2022-02-04T21:48:00.190217",
+    "archiveDate": null,
+    "skillName": "Python Variables Declaration",
+    "skillStatement": "Declare variables using Python.",
+    "category": "Python (Programming Language)",
+    "keywords": [
+        "Python (Programming Language)",
+        "Python (Programming Language)",
+        "Jupyter Notebooks",
+        "Visual Studio Code",
+        "WGUSID: 1785"
+    ],
+    "occupations": [
+        {
+            "code": "15-0000",
+            "targetNodeName": "Computer and Mathematical Occupations",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1220",
+            "targetNodeName": "Computer and Information Research Scientists",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1221",
+            "targetNodeName": "Computer and Information Research Scientists",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1240",
+            "targetNodeName": "Database and Network Administrators and Architects",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1250",
+            "targetNodeName": "Software and Web Developers, Programmers, and Testers",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1251",
+            "targetNodeName": "Computer Programmers",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1259"
+        },
+        {
+            "code": "15-1290",
+            "targetNodeName": "Miscellaneous Computer Occupations",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-2090",
+            "targetNodeName": "Miscellaneous Mathematical Science Occupations",
+            "frameworkName": "bls"
+        }
+    ],
+    "slug": "python-variables-declaration"
+}

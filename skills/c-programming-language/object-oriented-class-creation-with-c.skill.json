@@ -1,0 +1,36 @@
+{
+    "id": "https://osmt.wgu.edu/api/skills/0b42aa5b-3597-420c-a485-fa4ce15a7d47",
+    "uuid": "0b42aa5b-3597-420c-a485-fa4ce15a7d47",
+    "status": "published",
+    "publishDate": "2022-02-25T13:54:23.203404",
+    "archiveDate": null,
+    "skillName": "Object-Oriented Class Creation with C++",
+    "skillStatement": "Create an object-oriented class with C++.",
+    "category": "C++ (Programming Language)",
+    "keywords": [
+        "C++",
+        "OOP",
+        "object oriented programming",
+        "class",
+        "C++ (Programming Language)",
+        "WGUSID: 12178"
+    ],
+    "occupations": [
+        {
+            "code": "15-0000",
+            "targetNodeName": "Computer and Mathematical Occupations",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1250",
+            "targetNodeName": "Software and Web Developers, Programmers, and Testers",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1251",
+            "targetNodeName": "Computer Programmers",
+            "frameworkName": "bls"
+        }
+    ],
+    "slug": "object-oriented-class-creation-with-c"
+}
