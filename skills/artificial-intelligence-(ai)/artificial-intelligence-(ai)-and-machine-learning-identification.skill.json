@@ -1,0 +1,16 @@
+{
+    "id": "https://osmt.wgu.edu/api/skills/752e183c-ef3b-4d2a-948a-45c76635fadc",
+    "uuid": "752e183c-ef3b-4d2a-948a-45c76635fadc",
+    "status": "published",
+    "publishDate": "2023-06-01T16:29:10.807539",
+    "archiveDate": null,
+    "skillName": "Artificial Intelligence (AI) and Machine Learning Identification",
+    "skillStatement": "Identify Artificial Intelligence (AI) and Machine Learning technologies and their practical applications.",
+    "category": "Artificial Intelligence (AI)",
+    "keywords": [
+        "Artificial Intelligence (AI)",
+        "AI and Machine Learning"
+    ],
+    "occupations": [],
+    "slug": "artificial-intelligence-(ai)-and-machine-learning-identification"
+}

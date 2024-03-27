@@ -1,0 +1,45 @@
+{
+    "id": "https://osmt.wgu.edu/api/skills/80a5a6de-824e-4b8d-8837-93b3ef891f08",
+    "uuid": "80a5a6de-824e-4b8d-8837-93b3ef891f08",
+    "status": "published",
+    "publishDate": "2022-02-25T13:54:23.136192",
+    "archiveDate": null,
+    "skillName": "C Function Creation",
+    "skillStatement": "Create functions using the C programming language.",
+    "category": "C (Programming Language)",
+    "keywords": [
+        "Visual Studio",
+        "C (Programming Language)",
+        "gcc",
+        "C (Programming Language)",
+        "WGUSID: 1542"
+    ],
+    "occupations": [
+        {
+            "code": "15-0000",
+            "targetNodeName": "Computer and Mathematical Occupations",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1220",
+            "targetNodeName": "Computer and Information Research Scientists",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1221",
+            "targetNodeName": "Computer and Information Research Scientists",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1250",
+            "targetNodeName": "Software and Web Developers, Programmers, and Testers",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1251",
+            "targetNodeName": "Computer Programmers",
+            "frameworkName": "bls"
+        }
+    ],
+    "slug": "c-function-creation"
+}
