@@ -1,0 +1,61 @@
+{
+    "id": "https://osmt.wgu.edu/api/skills/fee4c102-80de-4cc5-8682-742b9b679fb2",
+    "uuid": "fee4c102-80de-4cc5-8682-742b9b679fb2",
+    "status": "published",
+    "publishDate": "2022-02-04T21:48:06.499796",
+    "archiveDate": null,
+    "skillName": "R Variables Declaration",
+    "skillStatement": "Declare variables using R programming language.",
+    "category": "R (Programming Language)",
+    "keywords": [
+        "NICE_SP_DEV",
+        "NICE_SP_ARC",
+        "NICE_SP_SYS",
+        "NICE_AN_LNG",
+        "NICE_OM_ANA",
+        "NICE_OM_DTA",
+        "R (Programming Language)",
+        "R (Programming Language)",
+        "Jupyter Notebooks",
+        "R studio",
+        "WGUSID: 1786"
+    ],
+    "occupations": [
+        {
+            "code": "15-0000",
+            "targetNodeName": "Computer and Mathematical Occupations",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1220",
+            "targetNodeName": "Computer and Information Research Scientists",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1221",
+            "targetNodeName": "Computer and Information Research Scientists",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-1250",
+            "targetNodeName": "Software and Web Developers, Programmers, and Testers",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-2030",
+            "targetNodeName": "Operations Research Analysts",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-2031",
+            "targetNodeName": "Operations Research Analysts",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "15-2090",
+            "targetNodeName": "Miscellaneous Mathematical Science Occupations",
+            "frameworkName": "bls"
+        }
+    ],
+    "slug": "r-variables-declaration"
+}

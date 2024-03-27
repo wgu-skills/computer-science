@@ -1,0 +1,59 @@
+{
+    "id": "https://osmt.wgu.edu/api/skills/4a66beda-fa7e-4557-b5dd-0f54447bcfde",
+    "uuid": "4a66beda-fa7e-4557-b5dd-0f54447bcfde",
+    "status": "published",
+    "publishDate": "2022-02-04T15:26:59.630326",
+    "archiveDate": null,
+    "skillName": "Data Manipulation",
+    "skillStatement": "Manipulate data with structured query language (SQL) statements.",
+    "category": "SQL (Programming Language)",
+    "keywords": [
+        "SAP",
+        "SQL (Programming Language)",
+        "NoSQL",
+        "Teradata Database",
+        "Microsoft Visual Basic",
+        "C++",
+        "Python",
+        "SQL (Programming Language)",
+        "WGUSID: 7748"
+    ],
+    "occupations": [
+        {
+            "code": "13-0000",
+            "targetNodeName": "Business and Financial Operations Occupations",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "13-1110",
+            "targetNodeName": "Management Analysts",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "13-1111",
+            "targetNodeName": "Management Analysts",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "13-1160",
+            "targetNodeName": "Market Research Analysts and Marketing Specialists",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "13-1161",
+            "targetNodeName": "Market Research Analysts and Marketing Specialists",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "13-1190",
+            "targetNodeName": "Miscellaneous Business Operations Specialists",
+            "frameworkName": "bls"
+        },
+        {
+            "code": "13-1198",
+            "targetNodeName": "Project Management Specialists and Business Operations Specialists, All Other",
+            "frameworkName": "bls"
+        }
+    ],
+    "slug": "data-manipulation"
+}

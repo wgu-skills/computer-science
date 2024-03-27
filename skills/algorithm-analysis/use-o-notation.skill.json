@@ -1,0 +1,16 @@
+{
+    "id": "https://osmt.wgu.edu/api/skills/a072829a-726f-429d-bba2-8d79c226ddee",
+    "uuid": "a072829a-726f-429d-bba2-8d79c226ddee",
+    "status": "published",
+    "publishDate": "2023-01-11T22:15:52.066276",
+    "archiveDate": null,
+    "skillName": "Use O Notation",
+    "skillStatement": "Use O notation to represent the complexity of algorithms.",
+    "category": "Algorithm Analysis",
+    "keywords": [
+        "Algorithm Analysis",
+        "Algorithm Analysis"
+    ],
+    "occupations": [],
+    "slug": "use-o-notation"
+}
