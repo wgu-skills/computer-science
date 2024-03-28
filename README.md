@@ -1,6 +1,6 @@
 # Computer Science
 
-[![CC BY 4.0][cc-by-shield]][cc-by]
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 The Computer Science collection represents the skills necessary to conceive, design, and oversee computer systems, applications, and software development projects. This includes the skills needed to address coding challenges, optimize algorithms, and ensure the functioning of digital technologies. These skills may be applicable to Software Engineers, Data Scientists, Systems Architects, and IT Directors. This collection of skills was developed in partnership with a panel of subject matter experts who have worked as computer scientists. 
 
