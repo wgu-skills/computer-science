@@ -1,0 +1,16 @@
+{
+    "id": "https://osmt.wgu.edu/api/skills/967ac7f8-4436-4a84-8191-de73c5498125",
+    "uuid": "967ac7f8-4436-4a84-8191-de73c5498125",
+    "status": "published",
+    "publishDate": "2023-06-15T00:47:44.770053",
+    "archiveDate": null,
+    "skillName": "Python and Data Analysis Libraries Use",
+    "skillStatement": "Utilize Python and data analysis libraries like pandas, NumPy, and machine learning libraries like TensorFlow or Poarch.",
+    "category": "Artificial Intelligence (AI)",
+    "keywords": [
+        "Artificial Intelligence",
+        "Analytics Using Generative AI"
+    ],
+    "occupations": [],
+    "slug": "python-and-data-analysis-libraries-use"
+}
