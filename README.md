@@ -1,4 +1,4 @@
-# Computer Science_Oct.2023
+# Computer Science
 
 The Computer Science collection represents the skills necessary to conceive, design, and oversee computer systems, applications, and software development projects. This includes the skills needed to address coding challenges, optimize algorithms, and ensure the functioning of digital technologies. These skills may be applicable to Software Engineers, Data Scientists, Systems Architects, and IT Directors. This collection of skills was developed in partnership with a panel of subject matter experts who have worked as computer scientists. 
 
