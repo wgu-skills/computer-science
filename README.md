@@ -1,4 +1,4 @@
-# Computer Science_Oct.2023
+# Computer Science
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
